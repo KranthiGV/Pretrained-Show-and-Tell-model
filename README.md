@@ -2,7 +2,9 @@
 [1M iterations checkpoint file](https://drive.google.com/file/d/0B3laN3vvvSD2WWxuR3VRQzhycWM/view?usp=sharing)
 
 word_counts.txt (at this repository)
+
 model.ckpt-1000000.index (at this repository. Place it in the same folder as the model.)
+
 ## Show and Tell : A Neural Image Caption Generator
 Pretrained model for Tensorflow implementation found at [tensorflow/models](https://github.com/tensorflow/models/) of the image-to-text paper described at:
 
