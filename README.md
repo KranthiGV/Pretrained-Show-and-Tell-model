@@ -1,5 +1,5 @@
 (tl;dr)
-[1M iterations checkpoint file](https://drive.google.com/file/d/0B3laN3vvvSD2WWxuR3VRQzhycWM/view?usp=sharing)
+[1M iterations checkpoint file](https://drive.google.com/file/d/0B3laN3vvvSD2WWxuR3VRQzhycWM/view?usp=sharing) | [Released under MIT License](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model/blob/master/LICENSE)
 
 word_counts.txt (at this repository)
 
@@ -21,7 +21,7 @@ Full text available at: http://arxiv.org/abs/1609.06647
 # Steps
 0) Follow the steps at [im2txt](https://github.com/tensorflow/models/tree/master/im2txt) to clone the repository, install bazel, etc.
 1) Download the model checkpoint:
-[1M iterations checkpoint file](https://drive.google.com/file/d/0B3laN3vvvSD2WWxuR3VRQzhycWM/view?usp=sharing)
+[1M iterations checkpoint file](https://drive.google.com/file/d/0B3laN3vvvSD2WWxuR3VRQzhycWM/view?usp=sharing) [Released under MIT License](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model/blob/master/LICENSE)
 2) Clone the repository:
 git clone [https://github.com/KranthiGV/Pretrained-Show-and-Tell-model.git](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model.git)
 
