@@ -16,6 +16,10 @@ IEEE transactions on pattern analysis and machine intelligence (2016).
 
 Full text available at: http://arxiv.org/abs/1609.06647
 
+## Contact
+
+Kranthi Kiran GV ***([KranthiGV](https://github.com/KranthiGV) | [kranthi.gv@gmail.com](mailto:kranthi.gv@gmail.com))***
+
 ## Generating Captions
 
 # Steps
@@ -29,7 +33,7 @@ git clone [https://github.com/KranthiGV/Pretrained-Show-and-Tell-model.git](http
 # Path to checkpoint file.
 # Notice there's no data-00000-of-00001 in the CHECKPOINT_PATH environment variable
 # Also make sure you place model.ckpt-1000000.index (which is cloned from the repository)
-in the same location as model.ckpt-1000000.data-00000-of-00001
+# in the same location as model.ckpt-1000000.data-00000-of-00001
 CHECKPOINT_PATH="/path/to//model.ckpt-1000000"
 
 
