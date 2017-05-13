@@ -1,4 +1,4 @@
-(tl;dr)
+(tl;dr)  
 [2M iterations finetuned checkpoint file](https://drive.google.com/file/d/0B3laN3vvvSD2T1RPeDA5djJ6bFE/view?usp=sharing) | [Released under MIT License](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model/blob/master/LICENSE)
 
 [1M iterations checkpoint file](https://drive.google.com/file/d/0B3laN3vvvSD2WWxuR3VRQzhycWM/view?usp=sharing) | [Released under MIT License](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model/blob/master/LICENSE)
@@ -26,7 +26,7 @@ Kranthi Kiran GV ***([KranthiGV](https://github.com/KranthiGV) | [kranthi.gv@gma
 
 # Steps
 0) Follow the steps at [im2txt](https://github.com/tensorflow/models/tree/master/im2txt) to clone the repository, install bazel, etc.
-1) Download the desired model checkpoint:
+1) Download the desired model checkpoint:  
 [2M iterations finetuned checkpoint file](https://drive.google.com/file/d/0B3laN3vvvSD2T1RPeDA5djJ6bFE/view?usp=sharing) | [Released under MIT License](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model/blob/master/LICENSE)  
 [1M iterations checkpoint file](https://drive.google.com/file/d/0B3laN3vvvSD2WWxuR3VRQzhycWM/view?usp=sharing) | [Released under MIT License](https://github.com/KranthiGV/Pretrained-Show-and-Tell-model/blob/master/LICENSE)
 
