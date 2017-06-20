@@ -58,3 +58,7 @@ bazel-bin/im2txt/run_inference \
   --vocab_file=${VOCAB_FILE} \
   --input_files=${IMAGE_FILE}
 ```
+## Extras
+1) Graph.pbtxt is uploaded on request.
+2) Training stats are uploaded for use with tensorboard.  
+   `tensorboard  --logdir="./extras/tensorboard/"`
